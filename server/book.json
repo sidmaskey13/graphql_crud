@@ -1,0 +1,7 @@
+[
+    { "id": "1", "name": "Silent Killer", "genre": "Thriller", "author_id": "1" },
+    { "id": "2", "name": "Lord of the rings", "genre": "Fantasy", "author_id": "1" },
+    { "id": "3", "name": "Dune", "genre": "Adventure", "author_id": "3" },
+    { "id": "4", "name": "Titanic", "genre": "Romance", "author_id": "3" },
+    { "id": "5", "name": "Age of Empires", "genre": "Drama", "author_id": "3" }
+]
